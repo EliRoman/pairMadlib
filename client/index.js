@@ -11,6 +11,10 @@ Template.index.events({
 		console.log(noun);
 		var mad_lib = ("whenever I "+adverb +" "+verb+" my "+noun+" I say "+exclamation+".");
 		console.log(mad_lib);
+		var mad_lib = "they say that if a "+noun+" is "+adverb+", "+noun+" "+verb+". "+exclamation+"!"
+		console.log(mad_lib);
+		
+		console.log(mad_lib);
 	}
 
 });
